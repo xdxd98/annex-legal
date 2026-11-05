@@ -5,15 +5,15 @@ Last updated: November 5, 2026
 By adding Annex to a Discord server or using its commands, you agree to these terms. If you don't agree, don't use the bot.
 
 ## The service
-Annex is a free game bot for Discord. Servers fight each other in wars, and a server that loses a rated war becomes the winner's vassal in the game. Gold, ranks, empires and titles only exist inside the game and have no real-world value. Seasons reset most game progress every 30 days.
+Annex is a free game bot for Discord. Each server has its own island, where members claim land, build on it and take land from each other inside the game. Gold, wood, stone, land, ranks and buildings only exist inside the game and have no real-world value.
 
 ## Server administrators
-By adding Annex you confirm that you may do so for that server. Wars start only when a member with Manage Server accepts a code or joins the queue. Annex may change its own nickname in a server to `vassal of <winner>` for 24 hours after a lost war. `/nation stakes` turns this off.
+By adding Annex you confirm that you may do so for that server. Battle results mention the player who was attacked, and game images show the names and pictures of players on that server.
 
 ## Rules
 You must follow the [Discord Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). You may not:
-- use bots, scripts or alternate servers to manipulate results, ratings or gold
-- use a server name to harass, threaten or advertise to other servers
+- use bots, scripts or alternate accounts to manipulate the game
+- use a display name or picture to harass or threaten others
 - attack, overload or try to break the bot
 - exploit bugs instead of reporting them
 
