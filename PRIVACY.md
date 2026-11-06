@@ -1,9 +1,9 @@
 # Annex Privacy Policy
 
-Last updated: November 5, 2026
+Last updated: November 6, 2026
 
 ## What we store
-**About servers:** server ID, server name and game progress (the island, its land and the shared lighthouse).
+**About servers:** server ID, server name, the channel last used for the game, and game progress (the island, its land and the shared lighthouse).
 
 **About users who play:** Discord user ID, display name, a copy of the profile picture, and game progress (resources, land, buildings, points, wins and losses, daily streak).
 
@@ -12,8 +12,12 @@ Annex can't read normal messages. It only receives slash commands and button pre
 ## What we show
 Names and profile pictures of players appear on images of that server's island, on battle results, rankings and profile cards, and in its chronicle. These are only shown inside that same server, though people there can share them.
 
+The world ranking (`/world`) shows the names and game scores of servers with at least 3 players to people on other servers. Admins can turn this off with `/settings`.
+
+For running the bot, the operator also keeps private logs of which commands were used, by which user and in which server, of servers adding or removing the bot (name, ID, member count, owner ID), and of errors.
+
 ## Why
-We use this data only to run the game. The legal basis is providing the service you asked for and our legitimate interest in keeping the game fair. We don't sell the data or use it for advertising.
+We use this data only to run the game, fix problems and prevent abuse. The legal basis is providing the service you asked for and our legitimate interest in keeping the game fair. We don't sell the data or use it for advertising.
 
 ## Where and how long
 Data is stored in a database on the operator's own computer, and Discord processes it as the platform. It's kept while the game is in use. When Annex leaves a server, the island is marked inactive. Data can be deleted on request.

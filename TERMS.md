@@ -1,14 +1,14 @@
 # Annex Terms of Service
 
-Last updated: November 5, 2026
+Last updated: November 6, 2026
 
 By adding Annex to a Discord server or using its commands, you agree to these terms. If you don't agree, don't use the bot.
 
 ## The service
-Annex is a free game bot for Discord. Each server has its own island, where members claim land, build on it and take land from each other inside the game. Gold, wood, stone, land, ranks and buildings only exist inside the game and have no real-world value.
+Annex is a free game bot for Discord. Each server has its own island, where members claim land, build on it and take land from each other inside the game. Gold, wood, stone, crates, land, ranks and buildings only exist inside the game and have no real-world value.
 
 ## Server administrators
-By adding Annex you confirm that you may do so for that server. Battle results mention the player who was attacked, and game images show the names and pictures of players on that server.
+By adding Annex you confirm that you may do so for that server. Battle results mention the player who was attacked, and game images show the names and pictures of players on that server. Annex can post live island events in the channel last used for the game, and lists islands with at least 3 players on a world ranking. Admins can turn off both with `/settings`.
 
 ## Rules
 You must follow the [Discord Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). You may not:
