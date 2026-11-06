@@ -22,7 +22,7 @@ For running the bot, the operator also keeps private logs of which commands were
 We use this data only to run the game, fix problems and prevent abuse. The legal basis is providing the service you asked for and our legitimate interest in keeping the game fair. We don't sell the data or use it for advertising.
 
 ## Where and how long
-Data is stored in a database on a server of Oracle Cloud in Frankfurt, Germany, and Discord processes it as the platform. It's kept while the game is in use. When Annex leaves a server, the island is marked inactive. Data can be deleted on request.
+Data is stored in a database on a server of Oracle Cloud in Frankfurt, Germany, and Discord processes it as the platform. Voting on top.gg tells us your Discord ID, so we can pay the reward. It's kept while the game is in use, and you can delete your data yourself at any time on the website (menu, Delete my data), which removes your progress, your land and your name from island histories straight away. Backups are deleted after 14 days. When Annex leaves a server, the island is marked inactive. Data can be deleted on request.
 
 ## Your rights
 You can ask for access to your data, or for it to be corrected or deleted, and you may have the right to complain to a data protection authority. Open an issue in this repository to make a request, without posting private details there.
