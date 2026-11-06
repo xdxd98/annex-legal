@@ -2,10 +2,12 @@
 
 Last updated: November 6, 2026
 
-By adding Annex to a Discord server or using its commands, you agree to these terms. If you don't agree, don't use the bot.
+By adding Annex to a Discord server, using its commands or playing at annex.xdxd.rip, you agree to these terms. If you don't agree, don't use the bot.
 
 ## The service
 Annex is a free game bot for Discord. Each server has its own island, where members claim land, build on it and take land from each other inside the game. Gold, wood, stone, crates, land, ranks and buildings only exist inside the game and have no real-world value.
+
+Doubloons and everything else in the game have no real-world value. They can't be bought, sold, traded for money or cashed out. The games of chance only ever use doubloons, so nothing real can be won or lost. Progress can be reset by rule breaks or data loss.
 
 ## Server administrators
 By adding Annex you confirm that you may do so for that server. Battle results mention the player who was attacked, and game images show the names and pictures of players on that server. Annex can post live island events in the channel last used for the game, and lists islands with at least 3 players on a world ranking. Admins can turn off both with `/settings`.
